@@ -1,0 +1,15 @@
+89990
+1784
+Ancient
+Wagon
+Has roof
+76689497
+9884
+Future
+Truck
+Has roof
+123456
+1987
+Basic
+Truckarooni
+No roof
